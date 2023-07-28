@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "name": "Bone-in Ribeye",
+      "price": "$24.99"
+    },
+    {
+      "name": "Flank Steak",
+      "price": "$10.99"
+    },
+    {
+      "name": "Lobster Mac",
+      "price": "$16.99"
+    }
+  ]
+}
