@@ -26,12 +26,4 @@ object Utilities {
         Log.d("TROY", content)
         return content
     }
-
-    fun mapIconKeyToResource(key: String, context: Context): ImageVector{
-        return when (key){
-            "phone" -> Icons.Default.Phone
-            "star" -> Icons.Filled.Star
-            else -> Icons.Default.Face
-        }
-    }
 }
